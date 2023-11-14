@@ -1,6 +1,9 @@
 # our dataset
 dataset/
 
+*.tiff
+*.tif
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
