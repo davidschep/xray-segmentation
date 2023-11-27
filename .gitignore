@@ -1,8 +1,13 @@
 # our dataset
 dataset/
+new_dataset/
+old/
 
 *.tiff
 *.tif
+
+# model files
+*.pt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
