@@ -11,4 +11,4 @@ We used the following two repositories as reference to the implementation that w
 
 VGGNet: https://github.com/bnsreenu/python_for_microscopists/blob/master/194_xgboost_for_semantic_using_VGG_features.py
 
-UNet: 
+UNet: https://github.com/Mostafa-wael/U-Net-in-PyTorch
